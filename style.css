@@ -1,0 +1,273 @@
+body {
+    background-image: linear-gradient(-45deg, rgb(138, 152, 238), rgb(230, 203, 106));
+    height: 100vh;
+}
+.a {
+    width: 380px;
+    height: 380px;
+    background-color: white;
+    border-radius: 5px;
+}
+.a1 {
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 30px;
+    left: 110px
+}
+img {
+    border-radius: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1 {
+    position: relative;
+    left: 60px;
+    top: 20px;
+}
+
+p {
+   position: relative;
+   left: 140px;
+   top: 20px;
+}
+.a2 {
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    margin: 10px;
+}
+.a3 {
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    margin: 10px;
+}
+.a4 {
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    margin: 10px;
+}
+.a5 {
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    margin: 10px;
+}
+.s {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.d {
+    display: flex;
+}
+.q {
+    width: 380px;
+    height: 380px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 30px;
+    margin-top: -1px;
+}
+.q1 {
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 30px;
+    left: 110px
+}
+img {
+    border-radius: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1 {
+    position: relative;
+    left: 150px;
+    top: 20px;
+}
+
+p {
+   position: relative;
+   left: 140px;
+   top: 30px;
+}
+.q2 {
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    margin: 10px;
+}
+.q3 {
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    margin: 10px;
+}
+.q4 {
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    margin: 10px;
+}
+.q5 {
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    margin: 10px;
+}
+.w {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    margin: 10px;
+}
+.r {
+    width: 380px;
+    height: 380px;
+    background-color: white;
+    border-radius: 5px;
+}
+.r1 {
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 30px;
+    left: 110px
+}
+img {
+    border-radius: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1 {
+    position: relative;
+    left: 60px;
+    top: 20px;
+}
+
+p {
+   position: relative;
+   left: 140px;
+   top: 20px;
+}
+.r2 {
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    margin: 10px;
+}
+.r3 {
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    margin: 10px;
+}
+.r4 {
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    margin: 10px;
+}
+.r5 {
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    margin: 10px;
+}
+.t {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.i {
+    width: 380px;
+    height: 380px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 30px;
+    margin-top: -1px;
+}
+.i1 {
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 30px;
+    left: 110px
+}
+img {
+    border-radius: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1 {
+    position: relative;
+    left: 60px;
+    top: 20px;
+}
+
+p {
+   position: relative;
+   left: 140px;
+   top: 20px;
+}
+.i2 {
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    margin: 10px;
+}
+.i3 {
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    margin: 10px;
+}
+.i4 {
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    margin: 10px;
+}
+.i5 {
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    margin: 10px;
+}
+.o {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.d {
+    position: relative;
+    top: 80px;
+    left: 60px;
+}
